@@ -1,0 +1,23 @@
+.todo-form{
+   text-align: center;
+}
+
+.button {
+    padding: 10px 40px;
+    border: none;
+    background: #4CAF50;
+    color: #fff;
+}
+
+.todo-input-box{
+    width: 100%;
+    display: block;
+    padding: 20px;
+    text-align: center;
+}
+
+.todo-input-box input{
+    width: 300px;
+    padding: 10px;
+}
+

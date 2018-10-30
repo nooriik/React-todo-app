@@ -1,0 +1,17 @@
+.header{
+    background-color: #4CAF50;
+    color: #fff;
+}
+
+.header h1{
+    text-align: center;
+    margin: 0px;
+}
+
+.header small{
+    font-weight: bold;
+    float: right;
+    padding-right: 10px;
+    margin-bottom: 5px;
+}
+
